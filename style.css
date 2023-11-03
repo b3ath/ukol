@@ -25,6 +25,7 @@ body {
     position:center;
     border-collapse: collapse;
     width: 50%;
+    margin-left: 25%;
   }
   
   th, td {
@@ -45,3 +46,4 @@ body {
       width: 100%;
     }
   }
+
